@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
 </p>
 
-_The above logo and badges are optional_
+_The above logo and badges are optional._
 
 ### :star2: About
 - Write a short introduction to the project.
