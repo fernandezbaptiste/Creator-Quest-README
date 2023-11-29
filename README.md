@@ -70,7 +70,7 @@ $~$
 ### :email: Contact 
 - Email and social media links.
 - Head over to [here](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
-  * Copy paste the social links you enjoy and drop them below (make sure to change the `href` to your own links
+  * Copy paste the social links you enjoy and drop them below (make sure to change the `href` to your own links)
 
 <p align="left">
 <a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" /></a>
