@@ -19,15 +19,6 @@ _The above logo and badges are optional._
 - Try to keep it concise 
 
 
-### :books: Index
-
-- [About](#star2-About)
-- [Demo](#movie_camera-Demo)
-- [Set Up](#outbox_tray-Set-up)
-- [License](#page_facing_up-License)
-- [Contact](#email-contact)
-
-
 ###  :movie_camera: Demo
 - After the initial introduction, please add a screen recording of your project.
 - If the video's size is too large, it is a good idea to post your video on YouTube and attach a picture that redirects to the video (as shown below).
@@ -63,16 +54,12 @@ _E.g_
 
 $~$
 
-### :page_facing_up: License
-- State the license chosen and link it here.
-- You can also provide a justification for the type of license chosen if you believe it to be necessary.
-
-$~$
-
 ### :email: Contact 
-- Email and social media links.
-- Head over to [here](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
-  * Copy paste the social links you enjoy and drop them below (make sure to change the `href` to your own links)
+- Add your Email and Discord
+- You can also share other social media links if you want to. 😄
+
+If you want to create some cool design (completely optional), you can head over to [here](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-)
+  * Copy and paste the social links you enjoy and drop them below (make sure to change the `href` to your own links)
 
 <p align="left">
 <a href="https://twitter.com/fernandezbap" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="fernandezbap" /></a>
