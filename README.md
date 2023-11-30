@@ -25,7 +25,7 @@ _The above logo and badges are optional._
 
 <p align="center">
     <a href="https://youtu.be">
-        <img src="https://private-user-images.githubusercontent.com/83458751/286227027-bd7c3b93-0c32-4fdf-bf6d-01d6114633ad.png"/>
+        <img src="https://img.freepik.com/free-vector/modern-red-video-media-player-template_1017-23409.jpg"/>
     </a>
 </p>
 
